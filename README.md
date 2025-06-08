@@ -1,3 +1,4 @@
+# will fill text box up full, working on fix.
 # The Middle Context Man
 
 > The invisible infrastructure that makes AI conversations actually work
